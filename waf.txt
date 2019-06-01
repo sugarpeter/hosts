@@ -2,3 +2,4 @@ cdn.http.anno.channel4.com
 springserve.com
 tom.itv.com
 manifest.googlevideo.com
+manifest.googlevideo.com
